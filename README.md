@@ -6,6 +6,8 @@
 
   
   🎬 Entertainment Hub
+
+  
 📌 Overview
 
 Entertainment Hub is a modern web application built using React.js that provides users with a single platform to explore movies, TV shows, music, and trending entertainment content. The project focuses on a clean user interface, component-based architecture, and responsive design to deliver a smooth browsing experience.
