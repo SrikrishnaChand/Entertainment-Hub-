@@ -24,9 +24,9 @@ Entertainment Hub is a modern web application built using React.js that provides
 
 Frontend: React.js
 
-Languages: HTML5, CSS3, JavaScript (ES6+)
+Languages: HTML5, CSS3, JavaScript 
 
-Styling: CSS / Bootstrap / Tailwind (optional)
+Styling: CSS 
 
 Tools: VS Code, GitHub
 </td>
