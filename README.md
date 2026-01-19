@@ -3,6 +3,8 @@
 <tr>
 <td>
   Movie App built in React JS and Material UI.
+
+  
   🎬 Entertainment Hub
 📌 Overview
 
